@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+intermediate_results/
+data/
+data_raw/
+runs/
+saved_models/
